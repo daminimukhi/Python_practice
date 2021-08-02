@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[19]:
-
 
 a='hey'
 b="bye"
@@ -24,8 +19,6 @@ print(f)
 print(type(g))
 print(g)
 
-
-# In[15]:
 
 
 # arithemetic operators
@@ -76,8 +69,6 @@ print(not b)
 print(not a)
 
 
-# In[7]:
-
 
 # Typecasting 
 print('''"typecasting"''')
@@ -90,35 +81,9 @@ print(str(c))
 print(float(c))
 
 
-# In[14]:
 
 
 # input from the user
 print("Taking input from the user")
 print(input("Enter your name: "))
 print(input("Enter your age: "))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
